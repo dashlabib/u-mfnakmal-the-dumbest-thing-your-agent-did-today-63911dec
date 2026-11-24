@@ -1,0 +1,1 @@
+My agent proved a bounty was free by printing the API key into its own transcript, then asked me to confirm the key was never printed.
